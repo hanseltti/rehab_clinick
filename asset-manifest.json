@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82dd4e06.css",
+    "main.js": "/static/js/main.445c1009.js",
+    "static/media/person side hombro massage.jpg": "/static/media/person side hombro massage.a4406761a9fb62972558.jpg",
+    "static/media/patiente front office.jpg": "/static/media/patiente front office.a2fabca0740559c88ee1.jpg",
+    "static/media/profile picture woman photographer.jpg": "/static/media/profile picture woman photographer.6f4a355354ae362d8210.jpg",
+    "static/media/profile picture woman glasses.jpg": "/static/media/profile picture woman glasses.1edf638c44dced968740.jpg",
+    "static/media/profile revew man.jpg": "/static/media/profile revew man.a86f0d76faf5493e3a85.jpg",
+    "static/media/back neck pain photo.jpg": "/static/media/back neck pain photo.4d052c0dbc6906b84491.jpg",
+    "static/media/woman lifting weight both hands.jpg": "/static/media/woman lifting weight both hands.a6b2caf4558399b76f25.jpg",
+    "static/media/car-accident-rescu.jpg": "/static/media/car-accident-rescu.a9171b8c1a8b4282a225.jpg",
+    "static/media/calendly-img.JPG": "/static/media/calendly-img.6408daeb6795c79e101c.JPG",
+    "static/media/rehabilitation-center-logo.png": "/static/media/rehabilitation-center-logo.6ff798775fc20d6f0e0a.png",
+    "index.html": "/index.html",
+    "main.82dd4e06.css.map": "/static/css/main.82dd4e06.css.map",
+    "main.445c1009.js.map": "/static/js/main.445c1009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82dd4e06.css",
+    "static/js/main.445c1009.js"
+  ]
+}
